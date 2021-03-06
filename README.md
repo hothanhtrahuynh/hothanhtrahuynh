@@ -1,5 +1,15 @@
 ### Hi there 👋
-
+My name is Huynh Ho Thanh Tra
+Welcome to my page. It is my pleasure that you have taken a look at my account.
+- 🌱 I’m currently learning about Software Engineering
+- 👯 I’m looking to collaborate on people that have the same interest in Web (Nodejs, React,..) or Moible (Java) 
+- 💬 Ask me about something what you think it is interesting:
+- 📫 How to reach me: 
+  - :email: hhttra.it@gmail.com
+  - :telephone_receiver:+84917332341
+- ⚡ Fun fact:
+  - I used to collect a lot of old bottles to sell them and get money in order to take a trip to Saigon, I don't follow this idea anymore after collecting a big bag full of bottles inside and it is sold only 5 000 VND
+  - i thought "=))" is the typical for :dash: but no it typical for :smiley:
 <!--
 **hothanhtrahuynh/hothanhtrahuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
