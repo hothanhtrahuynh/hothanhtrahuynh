@@ -1,9 +1,10 @@
 ### Hi there 👋
 My name is Huynh Ho Thanh Tra
 Welcome to my page. It is my pleasure that you have taken a look at my account.
-- 🌱 I’m currently learning about Software Engineering
-- 👯 I’m looking to collaborate on people that have the same interest in Web (Nodejs, React, Ruby on Rails..) 
-- 💬 Ask me about something what you think it is interesting:
+- 🌱 I’m currently working on Software Engineering.
+- 🌱 I’m currently learning UX/UI Design that can support me a lot in software development.
+- 👯 I’m looking to collaborate with people who have the same interest in Web (Nodejs, React, Ruby on Rails..) 
+- 💬 Ask me about something that you think is interesting:
 - 📫 How to reach me: 
   - :email: hhttra.it@gmail.com
   - :telephone_receiver:+84917332341
